@@ -1,0 +1,234 @@
+country_code,country_name,subcontinent_name,continent_name
+DZ,Algeria,"North Africa",Africa
+MA,Morocco,"North Africa",Africa
+SD,Sudan,"North Africa",Africa
+SS,"South Sudan","North Africa",Africa
+TN,Tunisia,"North Africa",Africa
+AO,Angola,"Subsaharan Africa",Africa
+BF,"Burkina Faso","Subsaharan Africa",Africa
+BI,Burundi,"Subsaharan Africa",Africa
+BJ,Benin,"Subsaharan Africa",Africa
+BW,Botswana,"Subsaharan Africa",Africa
+CD,"Congo, Democratic Republic of","Subsaharan Africa",Africa
+CF,"Central African Republic","Subsaharan Africa",Africa
+CG,Congo,"Subsaharan Africa",Africa
+CI,"Ivory Coast","Subsaharan Africa",Africa
+CM,Cameroon,"Subsaharan Africa",Africa
+CV,"Cape Verde","Subsaharan Africa",Africa
+DJ,Djibouti,"Subsaharan Africa",Africa
+ER,Eritrea,"Subsaharan Africa",Africa
+ET,Ethiopia,"Subsaharan Africa",Africa
+GA,Gabon,"Subsaharan Africa",Africa
+GH,Ghana,"Subsaharan Africa",Africa
+GM,Gambia,"Subsaharan Africa",Africa
+GN,Guinea,"Subsaharan Africa",Africa
+GQ,"Equatorial Guinea","Subsaharan Africa",Africa
+GW,Guinea-Bissau,"Subsaharan Africa",Africa
+KE,Kenya,"Subsaharan Africa",Africa
+KM,Comoros,"Subsaharan Africa",Africa
+LR,Liberia,"Subsaharan Africa",Africa
+LS,Lesotho,"Subsaharan Africa",Africa
+MG,Madagascar,"Subsaharan Africa",Africa
+ML,Mali,"Subsaharan Africa",Africa
+MR,Mauritania,"Subsaharan Africa",Africa
+MU,Mauritius,"Subsaharan Africa",Africa
+MW,Malawi,"Subsaharan Africa",Africa
+MZ,Mozambique,"Subsaharan Africa",Africa
+NA,Namibia,"Subsaharan Africa",Africa
+NE,Niger,"Subsaharan Africa",Africa
+NG,Nigeria,"Subsaharan Africa",Africa
+RE,"Reunion Island","Subsaharan Africa",Africa
+RW,Rwanda,"Subsaharan Africa",Africa
+SC,Seychelles,"Subsaharan Africa",Africa
+SH,"Saint Helena","Subsaharan Africa",Africa
+SL,"Sierra Leone","Subsaharan Africa",Africa
+SN,Senegal,"Subsaharan Africa",Africa
+SO,Somalia,"Subsaharan Africa",Africa
+ST,"Sao Tome and Principe","Subsaharan Africa",Africa
+SZ,Eswatini,"Subsaharan Africa",Africa
+TD,Chad,"Subsaharan Africa",Africa
+TG,Togo,"Subsaharan Africa",Africa
+TZ,Tanzania,"Subsaharan Africa",Africa
+UG,Uganda,"Subsaharan Africa",Africa
+YT,Mayotte,"Subsaharan Africa",Africa
+ZA,"South Africa","Subsaharan Africa",Africa
+ZM,Zambia,"Subsaharan Africa",Africa
+ZW,Zimbabwe,"Subsaharan Africa",Africa
+BZ,Belize,"Central America",America
+CR,"Costa Rica","Central America",America
+GT,Guatemala,"Central America",America
+HN,Honduras,"Central America",America
+NI,Nicaragua,"Central America",America
+PA,Panama,"Central America",America
+SV,"El Salvador","Central America",America
+AG,"Antigua and Barbuda",Caribbean,America
+AI,Anguilla,Caribbean,America
+AW,Aruba,Caribbean,America
+BB,Barbados,Caribbean,America
+BL,"Saint Barthelemy",Caribbean,America
+BM,Bermuda,Caribbean,America
+BQ,"Bonaire, Saint Eustatius, Saba",Caribbean,America
+BS,Bahamas,Caribbean,America
+CU,Cuba,Caribbean,America
+CW,Curaçao,Caribbean,America
+DM,Dominica,Caribbean,America
+DO,"Dominican Republic",Caribbean,America
+GD,Grenada,Caribbean,America
+GP,Guadeloupe,Caribbean,America
+HT,Haiti,Caribbean,America
+JM,Jamaica,Caribbean,America
+KN,"Saint Kitts and Nevis",Caribbean,America
+KY,"Cayman Islands",Caribbean,America
+LC,"Saint Lucia",Caribbean,America
+MF,"Saint Martin",Caribbean,America
+MQ,Martinique,Caribbean,America
+MS,Montserrat,Caribbean,America
+PR,"Puerto Rico",Caribbean,America
+SX,"Sint Maarten",Caribbean,America
+TC,"Turks and Caicos Islands",Caribbean,America
+TT,"Trinidad and Tobago",Caribbean,America
+VC,"Saint Vincent and the Grenadines",Caribbean,America
+VG,"British Virgin Islands",Caribbean,America
+VI,"US Virgin Islands",Caribbean,America
+CA,Canada,"North America",America
+MX,Mexico,"North America",America
+PM,"Saint Pierre and Miquelon","North America",America
+US,U.S.A.,"North America",America
+AR,Argentina,"South America",America
+BO,Bolivia,"South America",America
+BR,Brazil,"South America",America
+CL,Chile,"South America",America
+CO,Colombia,"South America",America
+EC,Ecuador,"South America",America
+FK,"Falkland Islands (Malvinas)","South America",America
+GF,"French Guiana","South America",America
+GY,Guyana,"South America",America
+PE,Peru,"South America",America
+PY,Paraguay,"South America",America
+SR,Suriname,"South America",America
+UY,Uruguay,"South America",America
+VE,Venezuela,"South America",America
+AQ,Antarctica,Antarctica,Antarctica
+AE,"United Arab Emirates","Middle East",Asia
+BH,Bahrain,"Middle East",Asia
+EG,Egypt,"Middle East",Asia
+IQ,Iraq,"Middle East",Asia
+JO,Jordan,"Middle East",Asia
+KW,Kuwait,"Middle East",Asia
+LB,Lebanon,"Middle East",Asia
+LY,Libya,"Middle East",Asia
+OM,Oman,"Middle East",Asia
+PS,Palestine,"Middle East",Asia
+QA,Qatar,"Middle East",Asia
+SA,"Saudi Arabia","Middle East",Asia
+SY,Syria,"Middle East",Asia
+YE,Yemen,"Middle East",Asia
+CN,China,"North East Asia",Asia
+HK,"Hong Kong","North East Asia",Asia
+JP,Japan,"North East Asia",Asia
+KP,"North Korea","North East Asia",Asia
+KR,"South Korea","North East Asia",Asia
+MN,Mongolia,"North East Asia",Asia
+MO,Macao,"North East Asia",Asia
+TW,Taiwan,"North East Asia",Asia
+AF,Afghanistan,"South Asia",Asia
+BD,Bangladesh,"South Asia",Asia
+BT,Bhutan,"South Asia",Asia
+IN,India,"South Asia",Asia
+IR,Iran,"South Asia",Asia
+LK,"Sri Lanka","South Asia",Asia
+MV,Maldives,"South Asia",Asia
+NP,Nepal,"South Asia",Asia
+PK,Pakistan,"South Asia",Asia
+BN,Brunei,"South East Asia",Asia
+CC,"Cocos (Keeling) Islands","South East Asia",Asia
+CX,"Christmas Island","South East Asia",Asia
+ID,Indonesia,"South East Asia",Asia
+KH,Cambodia,"South East Asia",Asia
+LA,"Lao, People's Democratic Republic of","South East Asia",Asia
+MM,Myanmar,"South East Asia",Asia
+MY,Malaysia,"South East Asia",Asia
+PH,Philippines,"South East Asia",Asia
+SG,Singapore,"South East Asia",Asia
+TH,Thailand,"South East Asia",Asia
+TL,"East Timor","South East Asia",Asia
+VN,Vietnam,"South East Asia",Asia
+AM,Armenia,"Central/Eastern Europe",Europe
+AZ,Azerbaijan,"Central/Eastern Europe",Europe
+BG,Bulgaria,"Central/Eastern Europe",Europe
+BY,Belarus,"Central/Eastern Europe",Europe
+CZ,"Czech Republic","Central/Eastern Europe",Europe
+EE,Estonia,"Central/Eastern Europe",Europe
+GE,Georgia,"Central/Eastern Europe",Europe
+HU,Hungary,"Central/Eastern Europe",Europe
+KG,Kyrgyzstan,"Central/Eastern Europe",Europe
+KZ,Kazakhstan,"Central/Eastern Europe",Europe
+LT,Lithuania,"Central/Eastern Europe",Europe
+LV,Latvia,"Central/Eastern Europe",Europe
+MD,Moldova,"Central/Eastern Europe",Europe
+PL,Poland,"Central/Eastern Europe",Europe
+RO,Romania,"Central/Eastern Europe",Europe
+RU,Russia,"Central/Eastern Europe",Europe
+SK,Slovakia,"Central/Eastern Europe",Europe
+TJ,Tajikistan,"Central/Eastern Europe",Europe
+TM,Turkmenistan,"Central/Eastern Europe",Europe
+UA,Ukraine,"Central/Eastern Europe",Europe
+UZ,Uzbekistan,"Central/Eastern Europe",Europe
+DK,Denmark,"Northern Europe",Europe
+FI,Finland,"Northern Europe",Europe
+FO,"Faroe Islands","Northern Europe",Europe
+GB,"United Kingdom","Northern Europe",Europe
+GL,Greenland,"Northern Europe",Europe
+IE,Ireland,"Northern Europe",Europe
+IS,Iceland,"Northern Europe",Europe
+NO,Norway,"Northern Europe",Europe
+SE,Sweden,"Northern Europe",Europe
+AD,Andorra,"Southern Europe",Europe
+AL,Albania,"Southern Europe",Europe
+BA,"Bosnia and Herzegovina","Southern Europe",Europe
+CY,Cyprus,"Southern Europe",Europe
+ES,Spain,"Southern Europe",Europe
+GI,Gibraltar,"Southern Europe",Europe
+GR,Greece,"Southern Europe",Europe
+HR,Croatia,"Southern Europe",Europe
+IL,Israel,"Southern Europe",Europe
+IT,Italy,"Southern Europe",Europe
+ME,Montenegro,"Southern Europe",Europe
+MK,Macedonia,"Southern Europe",Europe
+MT,Malta,"Southern Europe",Europe
+PT,Portugal,"Southern Europe",Europe
+RS,Serbia,"Southern Europe",Europe
+SI,Slovenia,"Southern Europe",Europe
+TR,Turkiye,"Southern Europe",Europe
+AT,Austria,"Western Europe",Europe
+BE,Belgium,"Western Europe",Europe
+CH,Switzerland,"Western Europe",Europe
+DE,Germany,"Western Europe",Europe
+FR,France,"Western Europe",Europe
+LI,Liechtenstein,"Western Europe",Europe
+LU,Luxembourg,"Western Europe",Europe
+MC,Monaco,"Western Europe",Europe
+NL,Netherlands,"Western Europe",Europe
+AS,"American Samoa",Oceania,Oceania
+AU,Australia,Oceania,Oceania
+CK,"Cook Islands",Oceania,Oceania
+FJ,Fiji,Oceania,Oceania
+FM,Micronesia,Oceania,Oceania
+GU,Guam,Oceania,Oceania
+KI,Kiribati,Oceania,Oceania
+MH,"Marshall Islands",Oceania,Oceania
+MP,"Northern Mariana Islands",Oceania,Oceania
+NC,"New Caledonia",Oceania,Oceania
+NF,"Norfolk Island",Oceania,Oceania
+NR,Nauru,Oceania,Oceania
+NU,Niue,Oceania,Oceania
+NZ,"New Zealand",Oceania,Oceania
+PF,"French Polynesia",Oceania,Oceania
+PG,"Papua New Guinea",Oceania,Oceania
+PW,Palau,Oceania,Oceania
+SB,"Solomon Islands",Oceania,Oceania
+TO,Tonga,Oceania,Oceania
+TV,Tuvalu,Oceania,Oceania
+VU,Vanuatu,Oceania,Oceania
+WF,"Wallis and Futuna Islands",Oceania,Oceania
+WS,Samoa,Oceania,Oceania
