@@ -1,0 +1,26 @@
+{
+    "nombre": "Biblioteca Central",
+    "ubicacion": "Calle de las Letras, 123",
+    "libros": [
+        {
+            "titulo": "La Odisea",
+            "autor": "Homero",
+            "publicado": -700
+        },
+        {
+            "titulo": "Don Quijote de la Mancha",
+            "autor": "Miguel de Cervantes",
+            "publicado": 1605
+        },
+        {
+            "titulo": "Cien años de soledad",
+            "autor": "Gabriel García Márquez",
+            "publicado": 1967
+        }
+    ],
+    "horario": {
+        "lunes-viernes": "09:00 - 19:00",
+        "sabado": "10:00 - 14:00",
+        "domingo": "cerrado"
+    }
+}
